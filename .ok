@@ -1,0 +1,4 @@
+create: python3 -m venv ./venv/
+activate: . venv/bin/activate
+config: pip install PyQt5
+run: src/86BoxManager.py
